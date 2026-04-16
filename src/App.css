@@ -510,7 +510,7 @@ body {
 /* Men's Section Page Wrapper */
 .product-page {
   padding: 20px 10px;
-  max-width: 1300px;
+  /* max-width: 1300px; */
   margin: 0 auto;
 }
 
